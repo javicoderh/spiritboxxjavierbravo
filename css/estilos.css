@@ -83,7 +83,10 @@ button:hover {
 figcaption {
   color: silver;
 }
-
+footer {
+  position: relative;
+  bottom: 30px;
+}
 footer nav {
   display: flex;
   flex-direction: row;
