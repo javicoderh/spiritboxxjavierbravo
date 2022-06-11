@@ -1,0 +1,36 @@
+footer {
+    nav {
+        display:  flex;
+        flex-direction: row;
+        height: 30px;
+        text-align: center;
+        justify-content: center;
+    }
+    
+     #foot {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: row;
+        position: relative;
+        bottom: 460px;
+        text-align: center;
+        justify-content: center; 
+        background-color: rgb(7, 29, 100);
+        border-style: groove;
+        border-color: goldenrod;   
+    }
+    #foot2 {
+        
+        display: flex;
+        flex-direction: row;
+        position: relative;
+        bottom: 460px;
+        text-align: center;
+        justify-content: center;
+        background-color: rgb(7, 29, 100);
+        border-style: groove;
+        border-color: goldenrod;
+        color: silver;
+        font-family: cursive;
+    }
+ } 
